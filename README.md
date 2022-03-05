@@ -3,5 +3,5 @@
 Some variables and methods are pulled from `GameManager.cs`.
 
 # Live
-You can also play the game by downloading it from the Google Play Store.
+You can also play the game by downloading it from the Google Play Store.\
 https://play.google.com/store/apps/details?id=com.izovi.com.unity.template.mobile2D
